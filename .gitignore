@@ -1,0 +1,5 @@
+*.pyc
+archivos_s/*
+StarLord.log.*
+StarLord.log
+!_
